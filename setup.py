@@ -21,7 +21,7 @@ It is therefore a useful tool for websites that manage or manipulate PDFs.
 setup(
         name="pyPdf",
         version="1.12",
-        description="PDF toolkit",
+        description="Data From PDF",
         long_description=long_description,
         author="Jason Romero",
         author_email="codenamejason@icloud.com",
@@ -30,7 +30,7 @@ setup(
         classifiers = [
             "Development Status :: 5 - Production/Stable",
             "Intended Audience :: Developers",
-            "License :: OSI Approved :: BSD License",
+            "License :: OSI Approved :: The Artistic License 2.0",
             "Programming Language :: Python",
             "Operating System :: OS Independent",
             "Topic :: Software Development :: Libraries :: Python Modules",
