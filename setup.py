@@ -23,8 +23,8 @@ setup(
         version="1.12",
         description="PDF toolkit",
         long_description=long_description,
-        author="Mathieu Fenniak",
-        author_email="biziqe@mathieu.fenniak.net",
+        author="Jason Romero",
+        author_email="codenamejason@icloud.com",
         url="http://pybrary.net/pyPdf/",
         download_url="http://pybrary.net/pyPdf/pyPdf-1.12.tar.gz",
         classifiers = [
