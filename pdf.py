@@ -37,8 +37,8 @@ A pure-Python PDF library with very minimal capabilities.  It was designed to
 be able to split and merge PDF files by page, and that's about all it can do.
 It may be a solid base for future PDF file work in Python.
 """
-__author__ = "Mathieu Fenniak"
-__author_email__ = "biziqe@mathieu.fenniak.net"
+__author__ = "Jason Romero"
+__author_email__ = "codenamejason@icloud.com"
 
 import math
 import struct
