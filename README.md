@@ -14,7 +14,7 @@ A Pure-Python library built as a PDF toolkit. It is capable of:
 By being Pure-Python, it should run on any Python platform without any dependencies on external libraries. It can also work entirely on StringIO objects rather than file streams, allowing for PDF manipulation in memory. It is therefore a useful tool for websites that manage or manipulate PDFs.
 Download Latest
 
-The latest release of pyPdf is version 1.13, released on December 4, 2010. All releases of pyPdf are distributed under the terms of a modified BSD license.
+The latest release of pyPdf is version 1.12, released on December 21, 2014. All releases of pyPdf are distributed under the terms of a modified BSD license.
 
     pyPdf-1.13.tar.gz (src) http://pybrary.net/pyPdf/pyPdf-1.13.tar.gz
     pyPdf-1.13.zip (src) http://pybrary.net/pyPdf/pyPdf-1.13.zip
